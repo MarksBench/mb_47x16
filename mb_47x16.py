@@ -66,6 +66,9 @@ Usage:
 For more information, consult the Raspberry Pi Pico MicroPython SDK documentation at:
   https://datasheets.raspberrypi.org/pico/raspberry-pi-pico-python-sdk.pdf
 
+and the MicroPython I2C documentation at:
+  https://docs.micropython.org/en/latest/library/machine.I2C.html
+
 and the Microchip 47xxx datasheet at:
   https://ww1.microchip.com/downloads/en/DeviceDoc/47L04_47C04_47L16_47C16_DS20005371D.pdf
 
